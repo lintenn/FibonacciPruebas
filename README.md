@@ -11,3 +11,7 @@ Repository with the aim to test with JUnit 5 an iterative version of computed Fi
 - Should compute return three if the position is four.
 - Should compute return fifty-five if the position is ten.
 - Should compute of a negative number raise an exception.
+
+## Images:
+### coverage.png
+![coverage.png](coverage.png)
