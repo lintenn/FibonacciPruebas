@@ -15,3 +15,5 @@ Repository with the aim to test with JUnit 5 an iterative version of computed Fi
 ## Images:
 ### coverage.png
 ![coverage.png](coverage.png)
+### commits.png
+![commits.png](commits.png)
